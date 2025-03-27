@@ -23,8 +23,8 @@ pygame.display.set_caption("Flappy Bird")
 clock = pygame.time.Clock()
 
 # Bird settings
-BIRD_WIDTH = 30
-BIRD_HEIGHT = 30
+BIRD_WIDTH = 25
+BIRD_HEIGHT = 25
 bird = pygame.Rect(200, 250, BIRD_WIDTH, BIRD_HEIGHT)
 
 # Pipe settings
