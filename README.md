@@ -1,5 +1,5 @@
 # Flappy Bird in Python (Pygame)
----------------------------------
+
 A simple Flappy Bird clone built using **Python** and **Pygame**.
 
 **Screenshot** 🎮
