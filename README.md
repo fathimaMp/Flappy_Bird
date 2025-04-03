@@ -1,6 +1,8 @@
 # Flappy Bird in Python (Pygame)
 ---------------------------------
 
+![Screenshot 2025-04-03 205231](https://github.com/user-attachments/assets/a5c34b7e-b477-4eeb-88a2-04135fe02127)
+
 A simple Flappy Bird clone built using **Python** and **Pygame**.
 
 ## 🎮 Gameplay
@@ -12,3 +14,4 @@ A simple Flappy Bird clone built using **Python** and **Pygame**.
 Make sure you have **Python** and **Pygame** installed.
 ```bash
 pip install pygame
+
