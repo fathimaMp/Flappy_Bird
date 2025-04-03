@@ -12,4 +12,7 @@ Make sure you have **Python** and **Pygame** installed.
 ```bash
 pip install pygame
 
-![Screenshot 2025-04-03 205231](https://github.com/user-attachments/assets/a5c34b7e-b477-4eeb-88a2-04135fe02127)
+**Screenshot** 🎮
+--------------
+
+![Screenshot 2025-04-03 205231](https://github.com/user-attachments/assets/35196de1-2db5-4771-a4e8-ca319faed1a1)
